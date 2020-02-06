@@ -1,0 +1,2 @@
+Некоторые задания из курса intel 
+Курс - https://software.intel.com/ru-ru/ai/courses/tensorflow
